@@ -8,7 +8,7 @@ Var
 
 Inicio
 
-      escreva("PreÁo unit·rio do produto: ")
+      escreva("Pre√ßo unit√°rio do produto: ")
       leia(preco)
       
       escreva("Quantidade comprada: ")
@@ -18,7 +18,7 @@ Inicio
       leia(recebido)
       
       troco <- recebido - (preco * quantidadeComprada)
-      escreva("Troco = ", troco:2:2)
+      escreval("Troco = ", troco:8:2)
 
 
 
